@@ -1,0 +1,507 @@
+link,image,region,country,beer type,sub type,brand,company
+,,Asia Pacific,China,,,Baisha ,Anheuser-Busch InBev
+,,Asia Pacific,China,,,Double Deer ,Anheuser-Busch InBev
+,,Asia Pacific,China,,,Double Deer E-Generation,Anheuser-Busch InBev
+,,Asia Pacific,China,,,Double Deer Premium Light,Anheuser-Busch InBev
+,,Asia Pacific,China,,,Double Deer Dry Beer,Anheuser-Busch InBev
+,,Asia Pacific,China,,,GuoGuang ,Anheuser-Busch InBev
+,,Asia Pacific,China,,,Harbin ,Anheuser-Busch InBev
+,,Asia Pacific,China,,,Jinlin ,Anheuser-Busch InBev
+,,Asia Pacific,China,,,Jinlongquan ,Anheuser-Busch InBev
+,,Asia Pacific,China,,,Jinlongquan Draft,Anheuser-Busch InBev
+,,Asia Pacific,China,,,Jinlongquan Refreshing,Anheuser-Busch InBev
+,,Asia Pacific,China,,,KK ,Anheuser-Busch InBev
+,,Asia Pacific,China,,,Red Shiliang ,Anheuser-Busch InBev
+,,Asia Pacific,China,,,Santai ,Anheuser-Busch InBev
+,,Asia Pacific,China,,,Sedrin ,Anheuser-Busch InBev
+,,Asia Pacific,China,,,Yali ,Anheuser-Busch InBev
+,,Asia Pacific,China,,,Zizhulin ,Anheuser-Busch InBev
+,,Asia Pacific,China,,,Zhujiang ,Anheuser-Busch InBev
+,,Asia Pacific,South Korea,,,Cafri ,Anheuser-Busch InBev
+,,Asia Pacific,South Korea,,,Cass Fresh,Anheuser-Busch InBev
+,,Asia Pacific,South Korea,,,Cass Light,Anheuser-Busch InBev
+,,Asia Pacific,South Korea,,,Cass Red,Anheuser-Busch InBev
+,,Asia Pacific,South Korea,,,Cass Lemon,Anheuser-Busch InBev
+,,Asia Pacific,South Korea,,,OB ,Anheuser-Busch InBev
+,,Europe,Belgium,,,Belle-Vue Kriek,Anheuser-Busch InBev
+,,Europe,Belgium,,,Belle-Vue Kriek Extra,Anheuser-Busch InBev
+,,Europe,Belgium,,,Belle-Vue Framboise,Anheuser-Busch InBev
+,,Europe,Belgium,,,Belle-Vue Gueuze,Anheuser-Busch InBev
+,,Europe,Belgium,,,Eiken Artois,Anheuser-Busch InBev
+,,Europe,Belgium,,,Hoegaarden ,Anheuser-Busch InBev
+,,Europe,Belgium,,,Hougaerdse Das ,Anheuser-Busch InBev
+,,Europe,Belgium,,,Julius ,Anheuser-Busch InBev
+,,Europe,Belgium,,,Jupiler ,Anheuser-Busch InBev
+,,Europe,Belgium,,,Jupiler N.A.,Anheuser-Busch InBev
+,,Europe,Belgium,,,Jupiler Blue,Anheuser-Busch InBev
+,,Europe,Belgium,,,Jupiler Tauro,Anheuser-Busch InBev
+,,Europe,Belgium,,,Leffe ,Anheuser-Busch InBev
+,,Europe,Belgium,,,Leffe Brown,Anheuser-Busch InBev
+,,Europe,Belgium,,,Leffe Blonde,Anheuser-Busch InBev
+,,Europe,Belgium,,,Leffe Ruby,Anheuser-Busch InBev
+,,Europe,Belgium,,,Leffe Printemps,Anheuser-Busch InBev
+,,Europe,Belgium,,,Piedboeuf ,Anheuser-Busch InBev
+,,Europe,Belgium,,,Piedboeuf Blond,Anheuser-Busch InBev
+,,Europe,Belgium,,,Piedboeuf Brown,Anheuser-Busch InBev
+,,Europe,Belgium,,,Piedboeuf Triple,Anheuser-Busch InBev
+,,Europe,Belgium,,,Safir ,Anheuser-Busch InBev
+,,Europe,Belgium,,,Vieux Temps ,Anheuser-Busch InBev
+,,Europe,Bulgaria,,,AstikA ,Anheuser-Busch InBev
+,,Europe,Bulgaria,,,Kamenitza ,Anheuser-Busch InBev
+,,Europe,Channel Islands,,,Breda ,Anheuser-Busch InBev
+,,Europe,Croatia,,,Zagrebačka pivovara ,Anheuser-Busch InBev
+,,Europe,Croatia,,,Božićno pivo,Anheuser-Busch InBev
+,,Europe,Croatia,,,Ožujsko pivo,Anheuser-Busch InBev
+,,Europe,Croatia,,,Ožujsko Cool,Anheuser-Busch InBev
+,,Europe,Croatia,,,Ožujsko Izzy,Anheuser-Busch InBev
+,,Europe,Croatia,,,Ožujsko Strong,Anheuser-Busch InBev
+,,Europe,Croatia,,,Fresssh by Ožujsko,Anheuser-Busch InBev
+,,Europe,Croatia,,,Tomislav,Anheuser-Busch InBev
+,,Europe,Croatia,,,ZiegenBock,Anheuser-Busch InBev
+,,Europe,France,,,Boomerang ,Anheuser-Busch InBev
+,,Europe,France,,,La Bécasse ,Anheuser-Busch InBev
+,,Europe,France,,,La Bécasse Kriek,Anheuser-Busch InBev
+,,Europe,France,,,La Bécasse Raspberry,Anheuser-Busch InBev
+,,Europe,France,,,La Bécasse Gueuze,Anheuser-Busch InBev
+,,Europe,Germany,,,Beck's ,Anheuser-Busch InBev
+,,Europe,Germany,,,Beck's Dark,Anheuser-Busch InBev
+,,Europe,Germany,,,Beck's Oktoberfest,Anheuser-Busch InBev
+,,Europe,Germany,,,Beck's Premier Light,Anheuser-Busch InBev
+,,Europe,Germany,,,Diebels ,Anheuser-Busch InBev
+,,Europe,Germany,,,Dimix ,Anheuser-Busch InBev
+,,Europe,Germany,,,Franziskaner Weissbier ,Anheuser-Busch InBev
+,,Europe,Germany,,,Franziskaner Hefe-Weissbier,Anheuser-Busch InBev
+,,Europe,Germany,,,Franziskaner Hefe-Weissbier Alkoholfrei,Anheuser-Busch InBev
+,,Europe,Germany,,,Franziskaner Hefe-Weissbier Dunkel,Anheuser-Busch InBev
+,,Europe,Germany,,,Franziskaner Hefe-Weissbier Leicht,Anheuser-Busch InBev
+,,Europe,Germany,,,Franziskaner Weissbier Kristallklar,Anheuser-Busch InBev
+,,Europe,Germany,,,Gilde Ratskeller ,Anheuser-Busch InBev
+,,Europe,Germany,,,Haake-Beck ,Anheuser-Busch InBev
+,,Europe,Germany,,,Hasseröder ,Anheuser-Busch InBev
+,,Europe,Germany,,,Löwenbräu ,Anheuser-Busch InBev
+,,Europe,Germany,,,Löwenbräu Alkoholfrei,Anheuser-Busch InBev
+,,Europe,Germany,,,Löwenbräu Dunkel,Anheuser-Busch InBev
+,,Europe,Germany,,,Löwenbräu Löwen Weisse,Anheuser-Busch InBev
+,,Europe,Germany,,,Löwenbräu Original,Anheuser-Busch InBev
+,,Europe,Germany,,,Löwenbräu Oktoberfestbier,Anheuser-Busch InBev
+,,Europe,Germany,,,Löwenbräu Premium Pils,Anheuser-Busch InBev
+,,Europe,Germany,,,Löwenbräu Radler,Anheuser-Busch InBev
+,,Europe,Germany,,,Löwenbräu Schwarze Weisse,Anheuser-Busch InBev
+,,Europe,Germany,,,Löwenbräu Triumphator,Anheuser-Busch InBev
+,,Europe,Germany,,,Löwenbräu Urtyp,Anheuser-Busch InBev
+,,Europe,Germany,,,Spaten ,Anheuser-Busch InBev
+,,Europe,Germany,,,Spaten Alkoholfrei,Anheuser-Busch InBev
+,,Europe,Germany,,,Spaten Diät-Pils,Anheuser-Busch InBev
+,,Europe,Germany,,,Spaten Münchner Hell,Anheuser-Busch InBev
+,,Europe,Germany,,,Spaten Oktoberfestbier,Anheuser-Busch InBev
+,,Europe,Germany,,,Spaten Optimator,Anheuser-Busch InBev
+,,Europe,Germany,,,Spaten Pils,Anheuser-Busch InBev
+,,Europe,Germany,,,St. Pauli Girl ,Anheuser-Busch InBev
+,,Europe,Germany,,,St. Pauli Girl Lager,Anheuser-Busch InBev
+,,Europe,Germany,,,St. Pauli Girl Special Dark,Anheuser-Busch InBev
+,,Europe,Germany,,,St. Pauli Girl Non-Alcoholic,Anheuser-Busch InBev
+,,Europe,Hungary,,,Borsodi Bivaly,Anheuser-Busch InBev
+,,Europe,Hungary,,,Borsodi Polo,Anheuser-Busch InBev
+,,Europe,Hungary,,,Borsodi Sör,Anheuser-Busch InBev
+,,Europe,Hungary,,,Borostyán ,Anheuser-Busch InBev
+,,Europe,Luxembourg,,,Diekirch Grand Cru,Anheuser-Busch InBev
+,,Europe,Luxembourg,,,Diekirch Grande Réserve,Anheuser-Busch InBev
+,,Europe,Luxembourg,,,Diekirch Exclusive,Anheuser-Busch InBev
+,,Europe,Luxembourg,,,Mousel ,Anheuser-Busch InBev
+,,Europe,Montenegro,,,Pivara Trebjesa ,Anheuser-Busch InBev
+,,Europe,Montenegro,,,Nik Cool,Anheuser-Busch InBev
+,,Europe,Montenegro,,,Nik Gold,Anheuser-Busch InBev
+,,Europe,Montenegro,,,Nikšicko pivo,Anheuser-Busch InBev
+,,Europe,Montenegro,,,Nikšicko tamno,Anheuser-Busch InBev
+,,Europe,Netherlands,,,Dommelsch Pilsener,Anheuser-Busch InBev
+,,Europe,Netherlands,,,Dommelsch Ice,Anheuser-Busch InBev
+,,Europe,Netherlands,,,Dommelsch Dominator,Anheuser-Busch InBev
+,,Europe,Netherlands,,,Dutch Gold ,Anheuser-Busch InBev
+,,Europe,Netherlands,,,Hertog Jan ,Anheuser-Busch InBev
+,,Europe,Netherlands,,,Primator,Anheuser-Busch InBev
+,,Europe,Netherlands,,,Oud Bruin,Anheuser-Busch InBev
+,,Europe,Netherlands,,,Grand Prestige,Anheuser-Busch InBev
+,,Europe,Netherlands,,,Tripel,Anheuser-Busch InBev
+,,Europe,Netherlands,,,Dubbel,Anheuser-Busch InBev
+,,Europe,Netherlands,,,Winterbier,Anheuser-Busch InBev
+,,Europe,Netherlands,,,Bockbier,Anheuser-Busch InBev
+,,Europe,Netherlands,,,Meibock,Anheuser-Busch InBev
+,,Europe,Netherlands,,,Oranjeboom ,Anheuser-Busch InBev
+,,Europe,Netherlands,,,Oranjeboom Premium Pilsener,Anheuser-Busch InBev
+,,Europe,Netherlands,,,Oranjeboom Oud Bruin,Anheuser-Busch InBev
+,,Europe,Netherlands,,,Oranjeboom Premish Malt,Anheuser-Busch InBev
+,,Europe,Romania,,,Bergenbier ,Anheuser-Busch InBev
+,,Europe,Romania,,,Noroc ,Anheuser-Busch InBev
+,,Europe,Russia,,,BagBier,Anheuser-Busch InBev
+,,Europe,Russia,,,BagBier Classicheskoye,Anheuser-Busch InBev
+,,Europe,Russia,,,BagBier Krepkoye,Anheuser-Busch InBev
+,,Europe,Russia,,,BagBier Nashe,Anheuser-Busch InBev
+,,Europe,Russia,,,Klinskoye ,Anheuser-Busch InBev
+,,Europe,Russia,,,Klinskoye Svetloye,Anheuser-Busch InBev
+,,Europe,Russia,,,Klinskoye Zolotoye,Anheuser-Busch InBev
+,,Europe,Russia,,,Klinskoye Lux,Anheuser-Busch InBev
+,,Europe,Russia,,,Klinskoye Redkoye,Anheuser-Busch InBev
+,,Europe,Russia,,,Klinskoye Arriva,Anheuser-Busch InBev
+,,Europe,Russia,,,Klinskoye Samurai,Anheuser-Busch InBev
+,,Europe,Russia,,,Permskoye Gubernskoye ,Anheuser-Busch InBev
+,,Europe,Russia,,,Permskoye Gubernskoye Svetloye,Anheuser-Busch InBev
+,,Europe,Russia,,,Rifey ,Anheuser-Busch InBev
+,,Europe,Russia,,,Sibirskaya Korona ,Anheuser-Busch InBev
+,,Europe,Russia,,,Tinkov Russian Lager ,Anheuser-Busch InBev
+,,Europe,Russia,,,Tolstiak ,Anheuser-Busch InBev
+,,Europe,Russia,,,Tolstiak Dobroye,Anheuser-Busch InBev
+,,Europe,Russia,,,Tolstiak Svetloye,Anheuser-Busch InBev
+,,Europe,Russia,,,Tolstiak Zaboristoye,Anheuser-Busch InBev
+,,Europe,Russia,,,Tolstiak Krepkoye,Anheuser-Busch InBev
+,,Europe,Russia,,,Tolstiak Grechisnoye,Anheuser-Busch InBev
+,,Europe,Sweden,,,Absolut Cut ,Anheuser-Busch InBev
+,,Europe,Ukraine,,,Chernihivske Svitle,Anheuser-Busch InBev
+,,Europe,Ukraine,,,Chernihivske Premium gold,Anheuser-Busch InBev
+,,Europe,Ukraine,,,Chernihivske Mitsne,Anheuser-Busch InBev
+,,Europe,Ukraine,,,Chernihivske 4ezz,Anheuser-Busch InBev
+,,Europe,Ukraine,,,Chernihivske Bile,Anheuser-Busch InBev
+,,Europe,Ukraine,,,Chernihivske Bila Nich,Anheuser-Busch InBev
+,,Europe,Ukraine,,,Chernihivske N/A,Anheuser-Busch InBev
+,,Europe,Ukraine,,,Chernihivske Pab Lager,Anheuser-Busch InBev
+,,Europe,Ukraine,,,Rohan ,Anheuser-Busch InBev
+,,Europe,Ukraine,,,Rohan Lehke,Anheuser-Busch InBev
+,,Europe,Ukraine,,,Rohan Tradytsiyne,Anheuser-Busch InBev
+,,Europe,Ukraine,,,Rohan Monastyrske Temne,Anheuser-Busch InBev
+,,Europe,Ukraine,,,Rohan Veselyi Monach,Anheuser-Busch InBev
+,,Europe,Ukraine,,,Rohan Bezalkoholne,Anheuser-Busch InBev
+,,Europe,Ukraine,,,Taller ,Anheuser-Busch InBev
+,,Europe,Ukraine,,,Yantar ,Anheuser-Busch InBev
+,,Europe,United Kingdom,,,Bass ,Anheuser-Busch InBev
+,,Europe,United Kingdom,,,Boddingtons ,Anheuser-Busch InBev
+,,Global,Global,,,Brahma ,Anheuser-Busch InBev
+,,Global,Global,,,Stella Artois ,Anheuser-Busch InBev
+,,Global,Global,,,Artois Bock,Anheuser-Busch InBev
+,,Global,Global,,,Peeterman Artois,Anheuser-Busch InBev
+,,Global,Global,,,Stone Mill Pale Ale,Anheuser-Busch InBev
+,,Global,Outside of US,,,Corona ,Anheuser-Busch InBev
+,,Latin America,Argentina,,,Andes ,Anheuser-Busch InBev
+,,Latin America,Argentina,,,Quilmes ,Anheuser-Busch InBev
+,,Latin America,Bolivia,,,Paceña ,Anheuser-Busch InBev
+,,Latin America,Bolivia,,,Paceña Pico de Oro,Anheuser-Busch InBev
+,,Latin America,Bolivia,,,Paceña Pico de Plata,Anheuser-Busch InBev
+,,Latin America,Bolivia,,,Huari,Anheuser-Busch InBev
+,,Latin America,Bolivia,,,Bock,Anheuser-Busch InBev
+,,Latin America,Bolivia,,,Ducal,Anheuser-Busch InBev
+,,Latin America,Brasil,,,Original ,Anheuser-Busch InBev
+,,Latin America,Brazil,,,Antarctica ,Anheuser-Busch InBev
+,,Latin America,Brazil,,,Aqua Fratelli Vita ,Anheuser-Busch InBev
+,,Latin America,Brazil,,,Bohemia Pilsen,Anheuser-Busch InBev
+,,Latin America,Brazil,,,Bohemia Escura,Anheuser-Busch InBev
+,,Latin America,Brazil,,,Bohemia Weiss,Anheuser-Busch InBev
+,,Latin America,Brazil,,,Bohemia Royal Ale,Anheuser-Busch InBev
+,,Latin America,Brazil,,,Bohemia Confraria,Anheuser-Busch InBev
+,,Latin America,Brazil,,,Bohemia Oaken,Anheuser-Busch InBev
+,,Latin America,Brazil,,,Caracu ,Anheuser-Busch InBev
+,,Latin America,Brazil,,,Guaraná Antarctica ,Anheuser-Busch InBev
+,,Latin America,Brazil,,,Guaraná Brahma ,Anheuser-Busch InBev
+,,Latin America,Brazil,,,Liber ,Anheuser-Busch InBev
+,,Latin America,Brazil,,,Marathon ,Anheuser-Busch InBev
+,,Latin America,Brazil,,,Skol ,Anheuser-Busch InBev
+,,Latin America,Brazil,,,Sukita ,Anheuser-Busch InBev
+,,Latin America,Colombia,,,Bogotá Beer Company ,Anheuser-Busch InBev
+,,Latin America,Guatemala,,,Brahva Gold ,Anheuser-Busch InBev
+,,Latin America,Guatemala,,,Brahva Beats ,Anheuser-Busch InBev
+,,Latin America,Paraguay,,,Baviera ,Anheuser-Busch InBev
+,,Latin America,Peru,,,Zenda ,Anheuser-Busch InBev
+,,Latin America,Uruguay,,,Pilsen ,Anheuser-Busch InBev
+,,North America,Canada,,,Keith's White,Anheuser-Busch InBev
+,,North America,Canada,,,Keith's Dark,Anheuser-Busch InBev
+,,North America,Canada,,,Keith's Red,Anheuser-Busch InBev
+,,North America,Canada,,,Keith's Light,Anheuser-Busch InBev
+,,North America,Canada,,,Keith's Regular,Anheuser-Busch InBev
+,,North America,Canada,,,Blue Star ,Anheuser-Busch InBev
+,,North America,Canada,,,Kokanee ,Anheuser-Busch InBev
+,,North America,Canada,,,Kokanee,Anheuser-Busch InBev
+,,North America,Canada,,,Kokanee Gold,Anheuser-Busch InBev
+,,North America,Canada,,,Kokanee Light,Anheuser-Busch InBev
+,,North America,Canada,,,Kokanee Frost,Anheuser-Busch InBev
+,,North America,Canada,,,Labatt Family ,Anheuser-Busch InBev
+,,North America,Canada,,,Labatt Blue,Anheuser-Busch InBev
+,,North America,Canada,,,Labatt Blue Light,Anheuser-Busch InBev
+,,North America,Canada,,,Labatt .5,Anheuser-Busch InBev
+,,North America,Canada,,,Labatt Lite,Anheuser-Busch InBev
+,,North America,Canada,,,Labatt 50,Anheuser-Busch InBev
+,,North America,Canada,,,John Labatt Classic,Anheuser-Busch InBev
+,,North America,Canada,,,Labatt Genuine,Anheuser-Busch InBev
+,,North America,Canada,,,Labatt Extra Dry Lager,Anheuser-Busch InBev
+,,North America,Canada,,,Labatt Wildcat,Anheuser-Busch InBev
+,,North America,Canada,,,Labatt Ice,Anheuser-Busch InBev
+,,North America,Canada,,,Labatt Sterling,Anheuser-Busch InBev
+,,North America,Canada,,,Lakeport Family ,Anheuser-Busch InBev
+,,North America,Canada,,,Lakeport Pilsener,Anheuser-Busch InBev
+,,North America,Canada,,,Lakeport Honey Lager,Anheuser-Busch InBev
+,,North America,Canada,,,Lakeport Strong,Anheuser-Busch InBev
+,,North America,Canada,,,Lakeport Ice,Anheuser-Busch InBev
+,,North America,Canada,,,Lakeport Ale,Anheuser-Busch InBev
+,,North America,Canada,,,Lakeport Light,Anheuser-Busch InBev
+,,North America,Canada,,,Lakeport Red,Anheuser-Busch InBev
+,,North America,Canada,,,Steeler,Anheuser-Busch InBev
+,,North America,Canada,,,Brava,Anheuser-Busch InBev
+,,North America,Canada,,,Wee Willy,Anheuser-Busch InBev
+,,North America,Canada,,,Oland Export Ale ,Anheuser-Busch InBev
+,,North America,Canada,,,Schooner Lager ,Anheuser-Busch InBev
+,,North America,United States,,,10 Barrel Brewing Co,Anheuser-Busch InBev
+,,North America,United States,,,Blue Point Brewing Company,Anheuser-Busch InBev
+,,North America,United States,,,Budweiser,Anheuser-Busch InBev
+,,North America,United States,,,Budweiser Chelada,Anheuser-Busch InBev
+,,North America,United States,,,Bud Dry,Anheuser-Busch InBev
+,,North America,United States,,,Bud Extra,Anheuser-Busch InBev
+,,North America,United States,,,Bud Ice,Anheuser-Busch InBev
+,,North America,United States,,,Bud Ice Light,Anheuser-Busch InBev
+,,North America,United States,,,Bud Lime,Anheuser-Busch InBev
+,,North America,United States,,,Budweiser Black Crown,Anheuser-Busch InBev
+,,North America,United States,,,Budweiser Select,Anheuser-Busch InBev
+,,North America,United States,,,Budweiser Select 55,Anheuser-Busch InBev
+,,North America,United States,,,Bud Light,Anheuser-Busch InBev
+,,North America,United States,,,Bud Light Chelada,Anheuser-Busch InBev
+,,North America,United States,,,Bud Light Lime,Anheuser-Busch InBev
+,,North America,United States,,,Bud Light Platinum,Anheuser-Busch InBev
+,,North America,United States,,,Busch,Anheuser-Busch InBev
+,,North America,United States,,,Busch Light,Anheuser-Busch InBev
+,,North America,United States,,,Elysian Brewing Company,Anheuser-Busch InBev
+,,North America,United States,,,Goose Island Brewery,Anheuser-Busch InBev
+,,North America,United States,,,Hop Hound Amber Wheat,Anheuser-Busch InBev
+,,North America,United States,,,Landshark,Anheuser-Busch InBev
+,,North America,United States,,,Michelob,Anheuser-Busch InBev
+,,North America,United States,,,Michelob Light,Anheuser-Busch InBev
+,,North America,United States,,,Michelob AmberBock,Anheuser-Busch InBev
+,,North America,United States,,,Michelob Dunkel Weisse,Anheuser-Busch InBev
+,,North America,United States,,,Michelob Honey Lager,Anheuser-Busch InBev
+,,North America,United States,,,Michelob Honey Wheat,Anheuser-Busch InBev
+,,North America,United States,,,Michelob Irish Red Ale,Anheuser-Busch InBev
+,,North America,United States,,,Michelob Marzen,Anheuser-Busch InBev
+,,North America,United States,,,Michelob Pale Ale,Anheuser-Busch InBev
+,,North America,United States,,,Michelob Porter,Anheuser-Busch InBev
+,,North America,United States,,,Michelob Ultra,Anheuser-Busch InBev
+,,North America,United States,,,Michelob Ultra Amber,Anheuser-Busch InBev
+,,North America,United States,,,Michelob Ultra Lime Cactus,Anheuser-Busch InBev
+,,North America,United States,,,Michelob Ultra Pomegranate Raspberry,Anheuser-Busch InBev
+,,North America,United States,,,Michelob Ultra Tuscan Orange Grapefruit,Anheuser-Busch InBev
+,,North America,United States,,,Michelob Golden Draft,Anheuser-Busch InBev
+,,North America,United States,,,Michelob Golden Draft Light,Anheuser-Busch InBev
+,,North America,United States,,,Natural Light,Anheuser-Busch InBev
+,,North America,United States,,,Natural Ice,Anheuser-Busch InBev
+,,North America,United States,,,Oculto,Anheuser-Busch InBev
+,,North America,United States,,,Red Bridge,Anheuser-Busch InBev
+,,North America,United States,,,Rolling Rock,Anheuser-Busch InBev
+,,North America,United States,,,Rock Light,Anheuser-Busch InBev
+,,North America,United States,,,Shock Top Belgian White,Anheuser-Busch InBev
+,,North America,United States,,,Wild Series,Anheuser-Busch InBev
+,,North America,United States,,,Wild Blue,Anheuser-Busch InBev
+,,North America,United States,,,Wild Black,Anheuser-Busch InBev
+,,North America,United States,,,Wild Red,Anheuser-Busch InBev
+,,North America,United States,,,#REF!,Anheuser-Busch InBev
+http://www.sabmiller.com/brands/brand-explorer/st.-louis,http://www.sabmiller.com/Media/brands/_brand_st_louis.jpg,Africa,Botswana,Lager,Pale lager,St. Louis,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/st.-louis-export,http://www.sabmiller.com/Media/brands/_brand_generic.jpg,Africa,Botswana,Lager,Pale lager,St. Louis Export,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/club-premium-lager---ghana,http://www.sabmiller.com/Media/brands/_brand_club_premium_lager_ghana87e307722c9d6131b545ff00002059a6.jpg,Africa,Ghana,Lager,Pale lager,Club Premium Lager - Ghana,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/club-shandy,http://www.sabmiller.com/Media/brands/_brand_club_shandy.jpg,Africa,Ghana,Flavoured beer,,Club Shandy,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/stone-strong-lager,http://www.sabmiller.com/Media/brands/stone-lager-625ml-bottle.jpg,Africa,Ghana,Lager,Pale lager,Stone Lager,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/maluti-premium-lager,http://www.sabmiller.com/Media/brands/_brand_maluti_premium_lager.jpg,Africa,Lesotho,Lager,Pilsner and Pils,Maluti Premium Lager,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/2m,http://www.sabmiller.com/Media/brands/_brand_2m.jpg,Africa,Mozambique,Lager,Pale lager,2M,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/impala,http://www.sabmiller.com/Media/brands/_brand_impala.jpg,Africa,Mozambique,Lager,Pale lager,Impala,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/laurentina-clara,http://www.sabmiller.com/Media/brands/_brand_lauentina_clara.jpg,Africa,Mozambique,Lager,Pilsner and Pils,Laurentina Clara,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/laurentina-premium,http://www.sabmiller.com/Media/brands/_brand_lauentina_premium.jpg,Africa,Mozambique,Lager,Pilsner and Pils,Laurentina Premium,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/laurentina-preta,http://www.sabmiller.com/Media/brands/_brand_lauentina_pretafafbfd712c9d6131b545ff00002059a6.jpg,Africa,Mozambique,Lager,Pale lager,Laurentina Preta,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/manica,http://www.sabmiller.com/Media/brands/_brand_manica.jpg,Africa,Mozambique,Lager,Pale lager,Manica,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/hero,http://www.sabmiller.com/Media/brands/_brand_hero_lager.jpg,Africa,Nigeria,Lager,Pilsner and Pils,Hero,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/brutal-fruit,http://www.sabmiller.com/Media/brands/brutal_fruit.jpg,Africa,South Africa,Flavoured alcoholic beverage,,Brutal Fruit,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/carling-black-label,http://www.sabmiller.com/Media/brands/_brand_carling_black_label.jpg,Africa,South Africa,Lager,Pale lager,Carling Black Label,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/castle-lager,http://www.sabmiller.com/Media/brands/_brand_castle_lager.jpg,Africa,South Africa,Lager,Pilsner and Pils,Castle Lager,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/castle-lite,http://www.sabmiller.com/Media/brands/_brand_castle_lite.jpg,Africa,South Africa,Lager,Pilsner and Pils,Castle Lite,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/castle-milk-stout,http://www.sabmiller.com/Media/brands/_brand_castle_milk_stout.jpg,Africa,South Africa,Stout,,Castle Milk Stout,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/flying-fish,http://www.sabmiller.com/Media/brands/_brand_flying_fish_alt.jpg,Africa,South Africa,Flavoured beer,,Flying Fish,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/hansa-marzen-gold,http://www.sabmiller.com/Media/brands/_brand_hansa_marzen_gold.jpg,Africa,South Africa,Lager,Amber lager,Hansa Marzen Gold,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/hansa-pilsener,http://www.sabmiller.com/Media/brands/_brand_hansa_marzen_pilsener.jpg,Africa,South Africa,Lager,Pilsner and Pils,Hansa Pilsener,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/redd's-dry,http://www.sabmiller.com/Media/brands/_brand_redds_dry.jpg,Africa,South Africa,Flavoured alcoholic beverage,,Redd's Dry,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/redd's-premium-original,http://www.sabmiller.com/Media/brands/_brand_redds_original.jpg,Africa,South Africa,Flavoured alcoholic beverage,,Redd's Premium Original,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/sarita,http://www.sabmiller.com/Media/brands/_brand_sarita.jpg,Africa,South Africa,Flavoured alcoholic beverage,,Sarita,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/skelter's-straight,http://www.sabmiller.com/Media/brands/_brand_skelters_straight.jpg,Africa,South Africa,Flavoured alcoholic beverage,,Skelter's Straight,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/white-bull,http://www.sabmiller.com/Media/brands/_brand_white_bull_alt.jpg,Africa,South Sudan,Lager,Pale lager,White Bull,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/sibebe,http://www.sabmiller.com/Media/brands/_brand_sibebe.jpg,Africa,Swaziland,Lager,Pale lager,Sibebe,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/balimi-extra-lager,http://www.sabmiller.com/Media/brands/_brand_balimi_extra_lager.jpg,Africa,Tanzania,Lager,Pilsner and Pils,Balimi Extra Lager,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/kilimanjaro-premium-lager,http://www.sabmiller.com/Media/brands/_brand_kilimanjaro_alt.jpg,Africa,Tanzania,Lager,Pilsner and Pils,Kilimanjaro Premium Lager,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/ndovu-special-malt,http://www.sabmiller.com/Media/brands/_brand_ndovu_special_malt.jpg,Africa,Tanzania,Lager,Pilsner and Pils,Ndovu Special Malt,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/safari,http://www.sabmiller.com/Media/brands/_brand_safari.jpg,Africa,Tanzania,Lager,Pilsner and Pils,Safari,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/chairman's-extra-strong-beer,http://www.sabmiller.com/Media/brands/_brand_chairman-39-s_extra_strong_beer.jpg,Africa,Uganda,Flavoured beer,,Chairman's Extra Strong Beer,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/club-pilsener,http://www.sabmiller.com/Media/brands/_brand_club_pilsner_alt.jpg,Africa,Uganda,Lager,Pilsner and Pils,Club Pilsener,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/eagle-extra-lager,http://www.sabmiller.com/Media/brands/_brand_eagle_extra.jpg,Africa,Uganda,Lager,Pilsner and Pils,Eagle Extra Lager,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/eagle-lager---uganda,http://www.sabmiller.com/Media/brands/_brand_eagle_lager.jpg,Africa,Uganda,Lager,Pale lager,Eagle Lager,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/nile-gold-crystal-malt-lager,http://www.sabmiller.com/Media/brands/_brand_nile_gold_crystal_malt_lager.jpg,Africa,Uganda,Lager,Pilsner and Pils,Nile Gold Crystal Malt Lager,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/nile-special,http://www.sabmiller.com/Media/brands/_brand_nile_special_alt.jpg,Africa,Uganda,Lager,Pilsner and Pils,Nile Special,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/chibuku,http://www.sabmiller.com/Media/brands/_brand_chibuku.jpg,Africa,Zambia,Opaque,,Chibuku,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/mosi-premium-lager,http://www.sabmiller.com/Media/brands/_brand_mosi_premium_lager.jpg,Africa,Zambia,Lager,Pilsner and Pils,Mosi Premium Lager,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/rhino-lager,http://www.sabmiller.com/Media/brands/_brand_rhino_lager.jpg,Africa,Zambia,Lager,,Rhino Lager,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/bohlinger's-lager,http://www.sabmiller.com/Media/brands/_brand_bohlingers_lager.jpg,Africa,Zimbabwe,Lager,Pilsner and Pils,Bohlinger's Lager,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/lion-lager,http://www.sabmiller.com/Media/brands/_brand_lion_lager.jpg,Africa,Zimbabwe,Lager,Pilsner and Pils,Lion Lager,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/alpha-pale-ale,http://www.sabmiller.com/Media/brands/_brand_alpha_pale_ale.jpg,Asia Pacific,Australia,Ale,,Alpha Pale Ale,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/beez-neez,http://www.sabmiller.com/Media/brands/_brand_beez_neez.jpg,Asia Pacific,Australia,Wheat,,Beez Neez,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/bohemian-pilsner,http://www.sabmiller.com/Media/brands/_brand_bohemiam_pilsner.jpg,Asia Pacific,Australia,Lager,Pilsner and Pils,Bohemian Pilsner,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/bulmers-original,http://www.sabmiller.com/Media/brands/_brand_bulmers_original.jpg,Asia Pacific,Australia,Cider,,Bulmers Original,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/bulmers-pear,http://www.sabmiller.com/Media/brands/_brand_bulmers_pear_alt.jpg,Asia Pacific,Australia,Cider,,Bulmers Pear,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/carlton-black,http://www.sabmiller.com/Media/brands/_brand_carlton_black.jpg,Asia Pacific,Australia,Dark,,Carlton Black,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/carlton-cold,http://www.sabmiller.com/Media/brands/_brand_carlton_cold.jpg,Asia Pacific,Australia,Lager,Pale lager,Carlton Cold,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/carlton-draught,http://www.sabmiller.com/Media/brands/_brand_carlton_draught.jpg,Asia Pacific,Australia,Lager,Pilsner and Pils,Carlton Draught,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/carlton-dry,http://www.sabmiller.com/Media/brands/_brand_carlton_dry.jpg,Asia Pacific,Australia,Lager,Pale lager,Carlton Dry,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/carlton-dry-fusion-lemon,http://www.sabmiller.com/Media/brands/_brand_carlton_dry_fusion_lemon.jpg,Asia Pacific,Australia,Flavoured beer,,Carlton Dry Fusion Lemon,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/carlton-dry-fusion-lime,http://www.sabmiller.com/Media/brands/_brand_carlton_dry_fusion_lime.jpg,Asia Pacific,Australia,Flavoured beer,,Carlton Dry Fusion Lime,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/carlton-mid,http://www.sabmiller.com/Media/brands/_brand_carlton_mid.jpg,Asia Pacific,Australia,Lager,Pilsner and Pils,Carlton Mid,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/cascade-bitter,http://www.sabmiller.com/Media/brands/_brand_cascade_bitter.jpg,Asia Pacific,Australia,Lager,,Cascade Bitter,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/cascade-blonde,http://www.sabmiller.com/Media/brands/cascade-blonde-375ml-bottle.jpg,Asia Pacific,Australia,Wheat,,Cascade Blonde,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/cascade-draught,http://www.sabmiller.com/Media/brands/_brand_cascade_draught.jpg,Asia Pacific,Australia,Lager,,Cascade Draught,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/cascade-first-harvest,http://www.sabmiller.com/Media/brands/cascade-first-harvest-2014-375ml-bottle.jpg,Asia Pacific,Australia,Ale,,Cascade First Harvest,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/cascade-pale-ale,http://www.sabmiller.com/Media/brands/cascade-pale-ale-375ml-bottle.jpg,Asia Pacific,Australia,Ale,,Cascade Pale Ale,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/cascade-premium-lager,http://www.sabmiller.com/Media/brands/cascade-premium-lager-375ml-bottle.jpg,Asia Pacific,Australia,Lager,Pilsner and Pils,Cascade Premium Lager,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/cascade-premium-light,http://www.sabmiller.com/Media/brands/_brand_cascade_premium_light.jpg,Asia Pacific,Australia,Lager,Pale lager,Cascade Premium Light,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/cascade-stout,http://www.sabmiller.com/Media/brands/cascade-stout-375ml-bottle.jpg,Asia Pacific,Australia,Dark,,Cascade Stout,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/crown-lager,http://www.sabmiller.com/Media/brands/_brand_crown_alt.jpg,Asia Pacific,Australia,Lager,Pilsner and Pils,Crown Lager,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/dirty-granny,http://www.sabmiller.com/Media/brands/_brand_dirty_granny.jpg,Asia Pacific,Australia,Cider,,Dirty Granny,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/dog-bolter-dark-lager,http://www.sabmiller.com/Media/brands/_brand_dog_bolter_dark_lager.jpg,Asia Pacific,Australia,Dark,,Dogbolter,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/fat-yak,http://www.sabmiller.com/Media/brands/_brand_fat_yak.jpg,Asia Pacific,Australia,Ale,,Fat Yak,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/foster's---australia,http://www.sabmiller.com/Media/brands/_brand_fosters_australia.jpg,Asia Pacific,Australia,Lager,Pilsner and Pils,Foster's - Australia,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/foster's-lightice,http://www.sabmiller.com/Media/brands/fosters-light-ice-375ml-can.jpg,Asia Pacific,Australia,Lager,Pale lager,Foster's Light Ice,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/great-northern-brewing-co,http://www.sabmiller.com/Media/brands/_brand_great_northern_brewing_co.jpg,Asia Pacific,Australia,Lager,Pale lager,Great Northern Brewing Co,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/big-helga,http://www.sabmiller.com/Media/brands/matilda-bay-helga-345ml-bottle.jpg,Asia Pacific,Australia,Lager,Amber lager,Helga,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/melbourne-bitter,http://www.sabmiller.com/Media/brands/_brand_melbourne_bitter.jpg,Asia Pacific,Australia,Lager,Pilsner and Pils,Melbourne Bitter,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/mercury-genuine-draft,http://www.sabmiller.com/Media/brands/_brand_mercury_genuine_draft.jpg,Asia Pacific,Australia,Cider,,Mercury Genuine Draft,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/mercury-medium-sweet,http://www.sabmiller.com/Media/brands/_brand_mercury_medium_sweet.jpg,Asia Pacific,Australia,Cider,,Mercury Medium Sweet,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/mercury-special-dry,http://www.sabmiller.com/Media/brands/_brand_mercury_special_dry.jpg,Asia Pacific,Australia,Cider,,Mercury Special Dry,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/nt-draught,http://www.sabmiller.com/Media/brands/_brand_nt_draft.jpg,Asia Pacific,Australia,Lager,Pale lager,NT Draught,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/pure-blonde,http://www.sabmiller.com/Media/brands/_brand_pure_blonde19c8ff712c9d6131b545ff00002059a6.jpg,Asia Pacific,Australia,Lager,Pale lager,Pure Blonde,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/pure-blonde-premium-mid,http://www.sabmiller.com/Media/brands/_brand_pure_blonde_premium_mid.jpg,Asia Pacific,Australia,Lager,Pale lager,Pure Blonde Premium Mid,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/redback,http://www.sabmiller.com/Media/brands/_brand_redback.jpg,Asia Pacific,Australia,Wheat,,Redback,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/reschs,http://www.sabmiller.com/Media/brands/_brand_reschs.jpg,Asia Pacific,Australia,Lager,Pilsner and Pils,Reschs,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/sheaf-stout,http://www.sabmiller.com/Media/brands/_brand_sheaf_stout.jpg,Asia Pacific,Australia,Dark,,Sheaf Stout,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/strongbow-clear,http://www.sabmiller.com/Media/brands/strongbow-lower-carb-355ml-bottle.jpg,Asia Pacific,Australia,Cider,,Strongbow Clear,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/strongbow-dry,http://www.sabmiller.com/Media/brands/strongbow-crisp-355ml-bottle.jpg,Asia Pacific,Australia,Cider,,Strongbow Dry,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/strongbow-original,http://www.sabmiller.com/Media/brands/strongbow-classic-355ml-bottle.jpg,Asia Pacific,Australia,Cider,,Strongbow Original,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/strongbow-summer-pear,http://www.sabmiller.com/Media/brands/_brand_strongbow_summer_pear.jpg,Asia Pacific,Australia,Cider,,Strongbow Summer Pear,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/strongbow-sweet,http://www.sabmiller.com/Media/brands/strongbow-sweet-355ml-bottle.jpg,Asia Pacific,Australia,Cider,,Strongbow Sweet,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/vb,http://www.sabmiller.com/Media/brands/_brand_victoria_bitter_new.jpg,Asia Pacific,Australia,Lager,Pilsner and Pils,Victoria Bitter,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/snow-(11p),http://www.sabmiller.com/Media/brands/_brand_snow_alt.jpg,Asia Pacific,China,Lager,Pale lager,Snow,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/foster's---india,http://www.sabmiller.com/Media/brands/_brand_fosters_india_new.jpg,Asia Pacific,India,Lager,Pale lager,Foster's - India,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/haywards-5000,http://www.sabmiller.com/Media/brands/_brand_haywards_5000.jpg,Asia Pacific,India,Lager,Pale lager,Haywards 5000,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/indus-pride---citrusy-cardamom,http://www.sabmiller.com/Media/brands/_brand_indus_pride_citrusy_cardamom.jpg,Asia Pacific,India,Flavoured beer,,Indus Pride - Citrusy Cardamom,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/indus-pride---citrusy-coriander,http://www.sabmiller.com/Media/brands/_brand_indus_pride_citrusy_coriander.jpg,Asia Pacific,India,Flavoured beer,,Indus Pride - Citrusy Coriander,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/indus-pride---fiery-cinnamon,http://www.sabmiller.com/Media/brands/_brand_indus_pride_fiery_cinnamon.jpg,Asia Pacific,India,Flavoured beer,,Indus Pride - Fiery Cinnamon,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/indus-pride---spicy-fennel,http://www.sabmiller.com/Media/brands/_brand_indus_pride_spicy_fennel.jpg,Asia Pacific,India,Flavoured beer,,Indus Pride - Spicy Fennel,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/knock-out,http://www.sabmiller.com/Media/brands/_brand_knock_out.jpg,Asia Pacific,India,Lager,Pale lager,Knock Out,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/royal-challenge-premium-lager,http://www.sabmiller.com/Media/brands/_brand_royal_challenge_premium_lager.jpg,Asia Pacific,India,Lager,Pale lager,Royal Challenge Premium Lager,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/zorok,http://www.sabmiller.com/Media/brands/_brand_zorok_lager.jpg,Asia Pacific,Vietnam,Lager,Pale lager,Zorok,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/st-stefanus,http://www.sabmiller.com/Media/brands/_brand_st_stefanus.jpg,Europe,Belgium,Ale,,St. Stefanus,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/dorada,http://www.sabmiller.com/Media/brands/_brand_dorada.jpg,Europe,Canary Islands,Lager,Pilsner and Pils,Dorada,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/dorada-especial,http://www.sabmiller.com/Media/brands/_brand_dorada_especial.jpg,Europe,Canary Islands,Lager,Pilsner and Pils,Dorada Especial,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/dorada-sin,http://www.sabmiller.com/Media/brands/_brand_dorada_sin.jpg,Europe,Canary Islands,Lager,Pilsner and Pils,Dorada Sin,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/tropical,http://www.sabmiller.com/Media/brands/_brand_tropical.jpg,Europe,Canary Islands,Lager,Pilsner and Pils,Tropical,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/tropical-premium,http://www.sabmiller.com/Media/brands/_brand_tropical_premium.jpg,Europe,Canary Islands,Lager,Pilsner and Pils,Tropical Premium,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/birell,http://www.sabmiller.com/Media/brands/_brand_birell_origina_orosena.jpg,Europe,Czech Republic,Lager,Pilsner and Pils,Birell,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/frisco,http://www.sabmiller.com/Media/brands/_brand_frisco.jpg,Europe,Czech Republic,Flavoured alcoholic beverage,,Frisco,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/frisco-dry,http://www.sabmiller.com/Media/brands/_brand_frisco_dry.jpg,Europe,Czech Republic,Flavoured alcoholic beverage,,Frisco Dry,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/gambrinus-dry,http://www.sabmiller.com/Media/brands/_brand_gambrinus_dry.jpg,Europe,Czech Republic,Lager,Pilsner and Pils,Gambrinus Dry,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/gambrinus-excellent,http://www.sabmiller.com/Media/brands/_brand_gambrinus_excelent.jpg,Europe,Czech Republic,Lager,Pilsner and Pils,Gambrinus Excelent,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/gambrinus-original,http://www.sabmiller.com/Media/brands/_brand_gambrinus_original.jpg,Europe,Czech Republic,Lager,Pilsner and Pils,Gambrinus Original,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/gambrinus-premium,http://www.sabmiller.com/Media/brands/_brand_gambrinus_premium1dd000722c9d6131b545ff00002059a6.jpg,Europe,Czech Republic,Lager,Pilsner and Pils,Gambrinus Premium,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/pilsner-urquell,http://www.sabmiller.com/Media/brands/_brand_pilsner_urquell.jpg,Europe,Czech Republic,Lager,Pilsner and Pils,Pilsner Urquell,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/radegast-original,http://www.sabmiller.com/Media/images/default-source/brands/brands-p-r/str-3_2_original_lahev9fcc34722c9d6131b545ff15002059a6.png?sfvrsn=0&anchor=middlecenter&mode=crop&quality=100&format=jpg&scale=canvas&width=300&bgcolor=ffffff,Europe,Czech Republic,Lager,Pilsner and Pils,Radegast Original,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/radegast-premium,http://www.sabmiller.com/Media/images/default-source/brands/brands-p-r/str-3_2_rh12_lahev.jpg,Europe,Czech Republic,Lager,Pilsner and Pils,Radegast Ryze Hořká 12,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/velkopopovický-kozel,http://www.sabmiller.com/Media/brands/_brand__brand_velkopopovicky_kozel_alt.jpg,Europe,Czech Republic,Lager,Pilsner and Pils,Velkopopovický Kozel,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/velkopopovický-kozel-cerny,http://www.sabmiller.com/Media/brands/_brand_velk_kozel_cerny71fcfd712c9d6131b545ff00002059a6.jpg,Europe,Czech Republic,Lager,"Dark lager, Schwarzbier and Dunkel",Velkopopovický Kozel Cerny,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/velkopopovický-kozel-premium,http://www.sabmiller.com/Media/brands/_brand_velk_kozel_premium2feafd712c9d6131b545ff00002059a6.jpg,Europe,Czech Republic,Lager,Pilsner and Pils,Velkopopovický Kozel Premium,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/velkopopovický-kozel-sveltý,http://www.sabmiller.com/Media/brands/_brand_velk_kozel_svelty98fcfd712c9d6131b545ff00002059a6.jpg,Europe,Czech Republic,Lager,,Velkopopovický Kozel Svetlý,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/arany-ászok,http://www.sabmiller.com/Media/brands/_brand_arany_aszok_new.jpg,Europe,Hungary,Lager,Pilsner and Pils,Arany Ászok,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/dreher-24,http://www.sabmiller.com/Media/brands/_brand_dreher_24.jpg,Europe,Hungary,Lager,Pilsner and Pils,Dreher 24,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/dreher-bak,http://www.sabmiller.com/Media/brands/_brand_dreher_bak.jpg,Europe,Hungary,Dark,,Dreher Bak,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/dreher-classic,http://www.sabmiller.com/Media/brands/_brand_dreher_classic_alt.jpg,Europe,Hungary,Lager,Pilsner and Pils,Dreher Classic,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/dreher-premium,http://www.sabmiller.com/Media/brands/_brand_dreher_premium.jpg,Europe,Hungary,Lager,Pilsner and Pils,Dreher Premium,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/kobányai-sör,http://www.sabmiller.com/Media/brands/_brand_kobanyai_new.jpg,Europe,Hungary,Lager,Pale lager,Kobányai Sör,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/peroni,http://www.sabmiller.com/Media/brands/_brand_peroni.jpg,Europe,Italy,Lager,Pilsner and Pils,Peroni,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/peroni-gran-riserva-doppio-malto,http://www.sabmiller.com/Media/brands/_brand_peroni_gran_riserva_doppio_malto_alt.jpg,Europe,Italy,Lager,Pilsner and Pils,Peroni Gran Riserva Doppio Malto,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/peroni-leggera,http://www.sabmiller.com/Media/brands/brand_peroni_leggera.jpg,Europe,Italy,Lager,Pale lager,Peroni Leggera,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/peroni-nastro-azzurro,http://www.sabmiller.com/Media/brands/_brand_peroni_nastro_azzurro.jpg,Europe,Italy,Lager,Pilsner and Pils,Peroni Nastro Azzurro,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/raffo,http://www.sabmiller.com/Media/brands/_brand_raffo.jpg,Europe,Italy,Lager,,Raffo,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/wührer,http://www.sabmiller.com/Media/brands/_brand_wuhrer.jpg,Europe,Italy,Lager,Pilsner and Pils,Wührer,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/de-klok,http://www.sabmiller.com/Media/brands/_brand_de_klok_alt.jpg,Europe,Netherlands,Lager,,De Klok,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/grolsch,http://www.sabmiller.com/Media/brands/_brand_grolsch.jpg,Europe,Netherlands,Lager,Pilsner and Pils,Grolsch,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/grolsch-stender,http://www.sabmiller.com/Media/brands/_brand_grolsch_stender.jpg,Europe,Netherlands,Flavoured beer,,Grolsch Stender,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/debowe-mocne,http://www.sabmiller.com/Media/brands/_brand_debowe_mocne_alt.jpg,Europe,Poland,Lager,Pilsner and Pils,Dębowe Mocne,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/gingers,http://www.sabmiller.com/Media/brands/_brand_gingers.jpg,Europe,Poland,Flavoured beer,,Gingers,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/green-mill-cider,http://www.sabmiller.com/Media/brands/_brand_green_mill.jpg,Europe,Poland,Cider,Green Mill Cider,Green Mill Cider,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/ksiazece,http://www.sabmiller.com/Media/brands/_brand_ksiazece_alternative.jpg,Europe,Poland,Lager,,Książęce,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/lech,http://www.sabmiller.com/Media/brands/_brand_lech.jpg,Europe,Poland,Lager,Pilsner and Pils,Lech,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/redd's,http://www.sabmiller.com/Media/brands/_brand_redds_premium_apple.jpg,Europe,Poland,Flavoured alcoholic beverage,,Redd's,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/tyskie,http://www.sabmiller.com/Media/brands/_brand_tyskie.jpg,Europe,Poland,Lager,Pilsner and Pils,Tyskie,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/wojak-jasny-pelny,http://www.sabmiller.com/Media/brands/_brand_wojak.jpg,Europe,Poland,Lager,Pale lager,Wojak Jasny Pelny,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/zubr,http://www.sabmiller.com/Media/brands/_brand_zubr75e307722c9d6131b545ff00002059a6.jpg,Europe,Poland,Lager,Pilsner and Pils,Żubr,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/ciucas,http://www.sabmiller.com/Media/brands/_brand_ciucas.jpg,Europe,Romania,Lager,Pilsner and Pils,Ciucas,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/stejar,http://www.sabmiller.com/Media/brands/_brand_stejar_pilsner.jpg,Europe,Romania,Lager,Pilsner and Pils,Stejar,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/timisoreana,http://www.sabmiller.com/Media/brands/_brand_timisoreana.jpg,Europe,Romania,Lager,Pilsner and Pils,Timisoreana,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/ursus-premium,http://www.sabmiller.com/Media/brands/_brand_ursus.jpg,Europe,Romania,Lager,Pilsner and Pils,Ursus Premium,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/šariš-dark,http://www.sabmiller.com/Media/brands/_brand_saris_dark.jpg,Europe,Slovakia,Lager,Pilsner and Pils,Šariš Dark,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/šariš-light,http://www.sabmiller.com/Media/brands/_brand_saris_light.jpg,Europe,Slovakia,Lager,Pilsner and Pils,Šariš Light,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/šariš-premium,http://www.sabmiller.com/Media/brands/_brand_saris_premium.jpg,Europe,Slovakia,Lager,Pilsner and Pils,Šariš Premium,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/smädný-mnìch,http://www.sabmiller.com/Media/brands/_brand_smadny_mnich.jpg,Europe,Slovakia,Lager,Pilsner and Pils,Smädný Mnìch,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/topvar-10,http://www.sabmiller.com/Media/brands/_brand_topvar.jpg,Europe,Slovakia,Lager,Pilsner and Pils,Topvar,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/aguila,http://www.sabmiller.com/Media/brands/_brand_aguila.jpg,Latin America,Colombia,Lager,Pale lager,Aguila,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/aguila-light,http://www.sabmiller.com/Media/brands/_brand_aguila_light.jpg,Latin America,Colombia,Lager,Pale lager,Aguila Light,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/club-colombia,http://www.sabmiller.com/Media/brands/_brand_club_columbia.jpg,Latin America,Colombia,Lager,Pilsner and Pils,Club Colombia,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/costeña,http://www.sabmiller.com/Media/brands/_brand_costena.jpg,Latin America,Colombia,Lager,Pilsner and Pils,Costeña,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/pilsen,http://www.sabmiller.com/Media/brands/_brand_pilsen.jpg,Latin America,Colombia,Lager,Pale lager,Pilsen,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/poker,http://www.sabmiller.com/Media/brands/_brand_poker.jpg,Latin America,Colombia,Lager,Pale lager,Poker,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/club-premium-lager,http://www.sabmiller.com/Media/brands/_brand_club_premium_lager.jpg,Latin America,Ecuador,Lager,Pale lager,Club Premium Lager,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/conquer,http://www.sabmiller.com/Media/brands/_brand_conquer.jpg,Latin America,Ecuador,Lager,Pale lager,Conquer,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/dorada---ecuador,http://www.sabmiller.com/Media/brands/_brand_dorada_ecuador_alt.jpg,Latin America,Ecuador,Lager,Pale lager,Dorada - Ecuador,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/pilsener---ecuador,http://www.sabmiller.com/Media/brands/_brand_pilsner_ecuador7725ff712c9d6131b545ff00002059a6.jpg,Latin America,Ecuador,Lager,Pale lager,Pilsener - Ecuador,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/barena---el-salvador-peru,http://www.sabmiller.com/Media/brands/_brand_barena_peru.jpg,Latin America,El Salvador,Lager,Pale lager,Barena - El Salvador/Peru,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/golden-light,http://www.sabmiller.com/Media/brands/_brand_golden_light.jpg,Latin America,El Salvador,Lager,Pale lager,Golden Light,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/pilsener---el-salvador,http://www.sabmiller.com/Media/brands/_brand_pilsener_el_salvador.jpg,Latin America,El Salvador,Lager,Pale lager,Pilsener - El Salvador,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/pilsener-lite---el-salvador,http://www.sabmiller.com/Media/brands/_brand_pilsener_lite.jpg,Latin America,El Salvador,Lager,Pale lager,Pilsener Lite - El Salvador,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/regia-extra,http://www.sabmiller.com/Media/brands/_brand_regia_extra.jpg,Latin America,El Salvador,Lager,Pale lager,Regia Extra,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/suprema,http://www.sabmiller.com/Media/brands/_brand_supremab4bafa712c9d6131b545ff00002059a6.jpg,Latin America,El Salvador,Lager,Pale lager,Suprema,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/barena---honduras,http://www.sabmiller.com/Media/brands/_brand_barena_honduras.jpg,Latin America,Honduras,Lager,Pale lager,Barena - Honduras,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/imperial,http://www.sabmiller.com/Media/brands/_brand_imperial.jpg,Latin America,Honduras,Lager,Pale lager,Imperial,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/port-royal,http://www.sabmiller.com/Media/images/default-source/default-album/packshot1.jpg,Latin America,Honduras,Lager,Pale lager,Port Royal,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/salvavida,http://www.sabmiller.com/Media/brands/_brand_salva_vida_alt.jpg,Latin America,Honduras,Lager,Pale lager,SalvaVida®,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/atlas,http://www.sabmiller.com/Media/brands/_brand_atlas.jpg,Latin America,Panama,Lager,Pale lager,Atlas,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/balboa,http://www.sabmiller.com/Media/brands/_brand_balboa.jpg,Latin America,Panama,Lager,Pale lager,Balboa,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/arequipeña,http://www.sabmiller.com/Media/brands/_brand_arequipena.jpg,Latin America,Peru,Lager,Pale lager,Arequipeña,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/cristal,http://www.sabmiller.com/Media/brands/_brand_cristal.jpg,Latin America,Peru,Lager,Pale lager,Cristal,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/cusqueña,http://www.sabmiller.com/Media/brands/_brand_cusquena.jpg,Latin America,Peru,Lager,Pilsner and Pils,Cusqueña,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/cusqueña-malta,http://www.sabmiller.com/Media/brands/_brand_cusquena_malta.jpg,Latin America,Peru,Malt,,Cusqueña Malta,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/pilsen-callao,http://www.sabmiller.com/Media/brands/_brand_pilsen_caliao.jpg,Latin America,Peru,Lager,Pale lager,Pilsen Callao,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/pilsen-polar,http://www.sabmiller.com/Media/brands/_brand_pilsen_polar.jpg,Latin America,Peru,Lager,Pale lager,Pilsen Polar,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/pilsen-trujillo,http://www.sabmiller.com/Media/brands/_brand_pilsen_trujillo.jpg,Latin America,Peru,Lager,Pale lager,Pilsen Trujillo,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/san-juan,http://www.sabmiller.com/Media/brands/_brand_san_juan.jpg,Latin America,Peru,Lager,Pale lager,San Juan,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/blue-moon,http://www.sabmiller.com/Media/brands/_brand_blue_moon.jpg,North America,United States,Wheat,,Blue Moon,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/coors-banquet,http://www.sabmiller.com/Media/brands/_brand_coors_banquet.jpg,North America,United States,Lager,Pale lager,Coors Banquet,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/coors-light,http://www.sabmiller.com/Media/brands/_brand_coors_light.jpg,North America,United States,Lager,Pale lager,Coors Light,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/hamm's,http://www.sabmiller.com/Media/brands/_brand_hamms_lager.jpg,North America,United States,Lager,Pale lager,Hamm's,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/henry-weinhard's-blonde,http://www.sabmiller.com/Media/brands/_brand_henry_weinhard-39-s_blonde.jpg,North America,United States,Lager,,Henry Weinhard's Blonde,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/henry-weinhard's-blue-boar-pale-ale,http://www.sabmiller.com/Media/brands/_brand_henry_weinhard-39-s_blue_boar_pale_ale.jpg,North America,United States,Ale,,Henry Weinhard's Blue Boar Pale Ale,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/henry-weinhard's-private-reserve,http://www.sabmiller.com/Media/brands/_brand_henry_weinhard-39-s_private_reserve.jpg,North America,United States,Lager,Pale lager,Henry Weinhard's Private Reserve,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/henry-weinhard's-india-pale-ale,http://www.sabmiller.com/Media/brands/_brand_henry_weinhards_woodland_pass_ipa.jpg,North America,United States,Ale,,Henry Weinhard's Woodland Pass IPA,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/icehouse,http://www.sabmiller.com/Media/brands/_brand_icehouse.jpg,North America,United States,Lager,Pale lager,Icehouse,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/keystone-ice,http://www.sabmiller.com/Media/brands/_brand_keystone_ice.jpg,North America,United States,Lager,Pale lager,Keystone Ice,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/leinenkugel's-berry-weiss,http://www.sabmiller.com/Media/brands/_brand_leinenkugel-39-s_berry_weiss.jpg,North America,United States,Wheat,,Leinenkugel's Berry Weiss,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/leinenkugel's-big-butt-doppelbock,http://www.sabmiller.com/Media/brands/_brand_leinenkugel-39-s_big_butt_doppelbock.jpg,North America,United States,Lager,"Dark lager, Schwarzbier and Dunkel",Leinenkugel's Big Butt Doppelbock,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/leinenkugel's-creamy-dark-lager,http://www.sabmiller.com/Media/brands/_brand_leinenkugel-39-s_creamy_dark_lager.jpg,North America,United States,Lager,"Dark lager, Schwarzbier and Dunkel",Leinenkugel's Creamy Dark Lager,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/leinenkugel's-honey-weiss,http://www.sabmiller.com/Media/brands/_brand_leinenkugel-39-s_honey_weiss.jpg,North America,United States,Wheat,,Leinenkugel's Honey Weiss,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/leinenkugel's-light,http://www.sabmiller.com/Media/brands/_brand_leinenkugel-39-s_light.jpg,North America,United States,Lager,Pale lager,Leinenkugel's Light,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/leinenkugel's-oktoberfest,http://www.sabmiller.com/Media/brands/_brand_leinenkugel-39-s_oktoberfest.jpg,North America,United States,Lager,Amber lager,Leinenkugel's Oktoberfest,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/leinenkugel's-original,http://www.sabmiller.com/Media/brands/_brand_leinenkugel-39-s_original.jpg,North America,United States,Lager,Pale lager,Leinenkugel's Original,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/leinenkugel's-red-lager,http://www.sabmiller.com/Media/brands/_brand_leinenkugel-39-s_red_lager.jpg,North America,United States,Lager,Amber lager,Leinenkugel's Red Lager,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/mickey's-malt-liquor,http://www.sabmiller.com/Media/brands/_brand_mickeys_malt_liqour.jpg,North America,United States,Lager,Pale lager,Mickey's Malt Liquor,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/mgd-64,http://www.sabmiller.com/Media/default-album/mgd_sign.jpg,North America,United States,Lager,Pale lager,Miller 64,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/miller-chill,http://www.sabmiller.com/Media/brands/_brand_miller_chill.jpg,North America,United States,Flavoured beer,,Miller Chill,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/miller-fortune,http://www.sabmiller.com/Media/brands/_brand_miller_fortune.jpg,North America,United States,Lager,Pale lager,Miller Fortune,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/miller-genuine-draft,http://www.sabmiller.com/Media/brands/_brand_miller_genuine_draft.jpg,North America,United States,Lager,Pale lager,Miller Genuine Draft,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/miller-high-life,http://www.sabmiller.com/Media/brands/_brand_miller_high_life.jpg,North America,United States,Lager,Pale lager,Miller High Life,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/miller-high-life-light,http://www.sabmiller.com/Media/brands/_brand_miller_high_life_light.jpg,North America,United States,Lager,Pale lager,Miller High Life Light,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/miller-lite,http://www.sabmiller.com/Media/images/default-source/default-album/sullivan4245.jpg,North America,United States,Lager,Pale lager,Miller Lite,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/milwaukee's-best,http://www.sabmiller.com/Media/brands/_brand_milwaukee-39-s_best.jpg,North America,United States,Lager,Pale lager,Milwaukee's Best,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/milwaukee's-best-ice,http://www.sabmiller.com/Media/brands/_brand_milwaukee-39-s_best_ice.jpg,North America,United States,Lager,Pale lager,Milwaukee's Best Ice,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/milwaukee's-best-light,http://www.sabmiller.com/Media/brands/_brand_milwaukee-39-s_best_light.jpg,North America,United States,Lager,Pale lager,Milwaukee's Best Light,SABMiller
+http://www.sabmiller.com/brands/brand-explorer/olde-english-800-malt-liquor,http://www.sabmiller.com/Media/brands/_brand_olde_english_800_malt.jpg,North America,United States,Lager,Pale lager,Olde English 800 Malt Liquor,SABMiller
