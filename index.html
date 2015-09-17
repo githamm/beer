@@ -193,7 +193,7 @@
       //$('table').footable();
 
       function create_row (item) {
-      var row = $('<tr><td>' + item['brand'] + '</td><td>' + item['country'] + '</td><td>' + item['region'] + '</td><td>' + item['beer type'] + '</td><td>' + item['company'] + '</td><td>' + item['sub type'] + '</td><td>' + '<a href="http://www.' + item['link'] + '">' + item['link'] + '</a>' + '</td></tr>');
+      var row = $('<tr><td>' + item['brand'] + '</td><td>' + item['country'] + '</td><td>' + item['region'] + '</td><td>' + item['beer type'] + '</td><td>' + item['company'] + '</td><td>' + item['sub type'] + '</td><td>' + '<a href="http://www.' + item['link'] + '" target="_top">' + item['link'] + '</a>' + '</td></tr>');
         return row;
       }
 
