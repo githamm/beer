@@ -71,10 +71,10 @@
 
     <!-- Search and filters -->
     <div class="row">
-      <div class="large-3 medium-3 small-12 columns">
+      <div class="large-3 medium-12 small-12 columns">
         <p><span style="font-weight: bold">Keyword search</span><input id="filter" type="text"/></p>
       </div>
-      <div class="large-3 medium-3 small-12 columns">
+      <div class="large-3 medium-4 small-12 columns">
         <p><span style="font-weight: bold">Country</span>
           <select id="country" class="filter-category">
             <option></option>
@@ -132,7 +132,7 @@
           <span class="row-count"></span>
         </p>
       </div>
-      <div class="large-3 medium-3 small-12 columns">
+      <div class="large-3 medium-4 small-12 columns">
         <p><span style="font-weight: bold">Region</span>
           <select id="region" class="filter-type">
             <option></option>
@@ -147,7 +147,7 @@
           <span class="row-count"></span>
         </p>
       </div>
-      <div class="large-3 medium-3 small-12 columns">
+      <div class="large-3 medium-4 small-12 columns">
         <p><span style="font-weight: bold">Company</span>
           <select id="company" class="filter-category">
             <option></option>
@@ -193,7 +193,7 @@
       //$('table').footable();
 
       function create_row (item) {
-      var row = $('<tr><td>' + item['brand'] + '</td><td>' + item['country'] + '</td><td>' + item['region'] + '</td><td>' + item['beer type'] + '</td><td>' + item['company'] + '</td><td>' + item['sub type'] + '</td><td>' + '<a href="http://www.' + item['link'] + '">' + item['link'] + '</a>' + '</td></tr>');
+      var row = $('<tr><td>' + item['brand'] + '</td><td>' + item['country'] + '</td><td>' + item['region'] + '</td><td>' + item['beer type'] + '</td><td>' + item['company'] + '</td><td>' + item['sub type'] + '</td><td>' + '<a href="http://www.' + item['link'] + '" target="_top">' + item['link'] + '</a>' + '</td></tr>');
         return row;
       }
 

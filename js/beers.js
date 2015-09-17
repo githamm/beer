@@ -3623,7 +3623,7 @@
         "link": "",
         "image": "",
         "region": "Latin America",
-        "country": "Brasil",
+        "country": "Brazil",
         "beer type": "",
         "sub type": "",
         "brand": "Original",
