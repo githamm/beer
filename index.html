@@ -4,7 +4,7 @@
   	<meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Anheuser-Bush InBev + SABMiller = a lot of beers | The Denver Post</title>
-    
+
     <!-- Style sheets -->
     <link href="http://extras.denverpost.com/projects/2015/salary-tables/css/footable.core.css?v=2-0-1" rel="stylesheet" type="text/css"/>
     <link href="http://extras.denverpost.com/projects/2015/salary-tables/demos/css/footable-demos.css" rel="stylesheet" type="text/css"/>
@@ -49,6 +49,13 @@
     	font-style: italic;
     	text-align: right;
     	color: rgba(0, 0, 0, .8)
+    }
+    input#filter {
+      height: 2.5rem;
+    }
+    select {
+      height: 2.5rem;
+    }
     </style>
   </head>
 
@@ -58,16 +65,74 @@
     <div class="row">
       <div class="large-12 medium-12 small-12 columns">
         <h1>Anheuser-Busch InBev + SABMiller = a lot of beers</h1>
-        <p class="intro">Here is a list of beer brands that are in play with the proposed merger of Anheuser-Bush InBev and SABMiller. Search, sort or use the filters to explore the data. The list will continue to be updated.</p>
+        <p class="intro">Here is a list of beer brands that are in play with the proposed merger of Anheuser-Bush InBev and SABMiller. Search by keyword or use the filters to explore the data. The list will continue to be updated. Click the plus sign to show more information (SABMiller beers only).</p>
       </div>
     </div>
 
     <!-- Search and filters -->
     <div class="row">
-      <div class="large-4 medium-4 small-12 columns">
+      <div class="large-3 medium-3 small-12 columns">
         <p><span style="font-weight: bold">Keyword search</span><input id="filter" type="text"/></p>
       </div>
-      <div class="large-4 medium-4 small-12 columns">
+      <div class="large-3 medium-3 small-12 columns">
+        <p><span style="font-weight: bold">Country</span>
+          <select id="country" class="filter-category">
+            <option></option>
+            <option value="Argentina">Argentina </option>
+            <option value="Australia">Australia </option>
+            <option value="Belgium">Belgium </option>
+            <option value="Bolivia">Bolivia </option>
+            <option value="Botswana">Botswana </option>
+            <option value="Brazil">Brazil </option>
+            <option value="Bulgaria">Bulgaria </option>
+            <option value="Canada">Canada </option>
+            <option value="Canary Islands">Canary Islands </option>
+            <option value="Channel Islands">Channel Islands </option>
+            <option value="China">China </option>
+            <option value="Colombia">Colombia </option>
+            <option value="Croatia">Croatia </option>
+            <option value="Czech Republic">Czech Republic </option>
+            <option value="Ecuador">Ecuador </option>
+            <option value="El Salvador">El Salvador </option>
+            <option value="France">France </option>
+            <option value="Germany">Germany </option>
+            <option value="Ghana">Ghana </option>
+            <option value="Global">Global </option>
+            <option value="Guatemala">Guatemala </option>
+            <option value="Honduras">Honduras </option>
+            <option value="Hungary">Hungary </option>
+            <option value="India">India </option>
+            <option value="Lesotho">Lesotho </option>
+            <option value="Luxembourg">Luxembourg </option>
+            <option value="Montenegro">Montenegro </option>
+            <option value="Netherlands">Netherlands </option>
+            <option value="Nigeria">Nigeria </option>
+            <option value="Panama">Panama </option>
+            <option value="Paraguay">Paraguay </option>
+            <option value="Peru">Peru </option>
+            <option value="Poland">Poland </option>
+            <option value="Romania">Romania </option>
+            <option value="Russia">Russia </option>
+            <option value="Slovakia">Slovakia </option>
+            <option value="South Africa">South Africa </option>
+            <option value="South Korea">South Korea </option>
+            <option value="Swaziland">Swaziland </option>
+            <option value="Sweden">Sweden </option>
+            <option value="Tanzania">Tanzania </option>
+            <option value="Uganda">Uganda </option>
+            <option value="Ukraine">Ukraine </option>
+            <option value="United Kingdom">United Kingdom </option>
+            <option value="United States">United States </option>
+            <option value="Uruguay">Uruguay </option>
+            <option value="Vietnam">Vietnam </option>
+            <option value="Zambia">Zambia </option>"> </option>
+            <option value="Zimbabwe">Zimbabwe </option>
+          </select>
+          <a href="#clear" class="clear-filter" title="clear filter">[clear]</a>
+          <span class="row-count"></span>
+        </p>
+      </div>
+      <div class="large-3 medium-3 small-12 columns">
         <p><span style="font-weight: bold">Region</span>
           <select id="region" class="filter-type">
             <option></option>
@@ -82,7 +147,7 @@
           <span class="row-count"></span>
         </p>
       </div>
-      <div class="large-4 medium-4 small-12 columns">
+      <div class="large-3 medium-3 small-12 columns">
         <p><span style="font-weight: bold">Company</span>
           <select id="company" class="filter-category">
             <option></option>
@@ -98,34 +163,34 @@
     <!-- Table -->
     <div class="row">
       <div class="large-12 medium-12 small-12 columns">
-        <table id="beers-table" class="table demo" data-filter="#filter" data-filter-text-only="false" footable table toggle-circle-filled" data-page-size="100" data-page-navigation=".pagination">
+        <table id="beers-table" class="table demo" data-filter="#filter" data-filter-text-only="false" data-page-size="100">
           <thead>
             <tr>
-              <th data-toggle="true" data-sort-initial="true">Beer</th>		      
-		      <th>Country</th>
-		      <th>Region</th>
-		      <th>Category</th>
-		      <th>Company</th>
-		      <th data-hide="all">Sub-category</th>
-		      <th data-hide="all">Info</th>
-		    </tr>
+              <th data-toggle="true" data-sort-initial="true">Beer</th>
+    		      <th>Country</th>
+    		      <th>Region</th>
+    		      <th>Category</th>
+    		      <th>Company</th>
+    		      <th data-hide="all">Sub-category</th>
+    		      <th data-hide="all">Info</th>
+    		    </tr>
           </thead>
           <tbody>
           </tbody>
           <tfoot class="hide-if-no-paging">
-          <tr>
-            <td colspan="5" class="text-center">
-            <ul class="pagination"></ul>
-            </td>
-          </tr>
-        </tfoot>
+            <tr>
+              <td colspan="5" class="text-center">
+                <ul class="pagination"></ul>
+              </td>
+            </tr>
+          </tfoot>
         </table>
         <p class="source">Source: Anheuser-Busch InBev, SABMiller, Wikipedia</p>
       </div>
     </div>
-    
+
     <script>
-      $('table').footable();
+      //$('table').footable();
 
       function create_row (item) {
       var row = $('<tr><td>' + item['brand'] + '</td><td>' + item['country'] + '</td><td>' + item['region'] + '</td><td>' + item['beer type'] + '</td><td>' + item['company'] + '</td><td>' + item['sub type'] + '</td><td>' + '<a href="http://www.' + item['link'] + '">' + item['link'] + '</a>' + '</td></tr>');
@@ -151,7 +216,7 @@
 		$(function () {
 		  $('table').footable({ bookmarkable: { enabled: true }}).bind({
 		    'footable_filtering': function (e) {
-		      var selected = $('#region,#company').find(':selected').text();
+		      var selected = $('#country,#region,#company').find(':selected').text();
 		      var items = selected.split(' ')
 		      if (selected && selected.length > 0) {
 		        e.filter += (e.filter && e.filter.length > 0) ? ' ' + selected : selected;
